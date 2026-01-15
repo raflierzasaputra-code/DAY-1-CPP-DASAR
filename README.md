@@ -3,8 +3,8 @@ repository ini berisi tentang **Dasar program C++** yang saya kerjakan sebagai b
 
 ## Tujuan
 - Memahami struktur dasar program C++
-- memahami penggunaan ('if', 'else if', dan 'else')
-- memahami operator logika '&&' dan '||'
+- memahami penggunaan (`if`, `else if`, dan `else`)
+- memahami operator logika `&&` dan `||`
 - memahami logika dasar
 
 ## Daftar File
